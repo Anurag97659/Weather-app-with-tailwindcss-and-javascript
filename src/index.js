@@ -1,4 +1,4 @@
-import {api} from './.gitignore/api.js';
+import {api} from './api.js';
 const apikey = api;
 let form = document.getElementById('form')
 form.addEventListener('submit', (e) => {
